@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/robertjallen/node-auth1-project#readme",
   "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
     "express": "^4.17.1",
     "helmet": "^3.23.3",
     "knex": "^0.21.1",
